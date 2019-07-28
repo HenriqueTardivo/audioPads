@@ -28,6 +28,7 @@ header p {
 
 .pads {
     background: green;
+    width: 100%;
     display: flex;  
 }
 
@@ -73,3 +74,4 @@ header p {
 .pad9 {
     background-color: mediumseagreen;
 }
+
